@@ -8,6 +8,13 @@
       "when": 1752499452242,
       "tag": "0000_outstanding_nemesis",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1753277096027,
+      "tag": "0001_slippery_beast",
+      "breakpoints": true
     }
   ]
 }
